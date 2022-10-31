@@ -37,7 +37,7 @@ setup(
             "sphinx==5.0.2",
             "furo==2022.9.29",
             "m2r2==0.3.2",
-            "ipython==8.5.0",
+            "ipython==8.6.0",
             "nbsphinx==0.8.9",
             "nbsphinx-link==1.3.0",
             "FireWorks==2.0.3",
